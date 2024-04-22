@@ -23,7 +23,7 @@ def main(
     if _graph_path.exists():
         tree = CategoryTree.deserialize(_graph_path)
     else:
-        tree = CategoryTree(assets=latest_assets(language), progress=True)
+        tree = CategoryTree(assets=latest_assets(language), progress=False)
         tree.serialize(_graph_path)
 
     percentile_value = tree.page_count_percentile(page_percentile)
