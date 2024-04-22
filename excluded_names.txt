@@ -1,0 +1,52 @@
+# Attempt at identifying large meta or organizational categories.
+# This is done mainly for the English Wikipedia.
+
+Category:Hidden categories
+Category:Tracking categories
+Category:Noindexed pages
+Category:Commons category link from Wikidata
+Category:Wikipedia template administration
+Category:WikiProject Countries projects
+Category:Wikipedia extended confirmed-protected pages
+Category:Commons category link is on Wikidata
+Category:Wikipedia 1.0 assessments
+Category:Commons category link is locally defined
+Category:Stub categories
+Category:Wikipedia sockpuppets
+Category:Wikipedia maintenance
+Category:Suspected Wikipedia sockpuppets
+Category:Wikipedia redirecting
+Category:Wikipedia backlog
+Category:Wikipedians
+Category:C-Class articles
+Category:Start-Class articles
+Category:Stub-Class articles
+Category:List-Class articles
+Category:WikiProject resources
+Category:Wikipedia user space
+Category:NA-Class articles
+Category:Wikipedia cleanup
+Category:Wikipedia featured articles
+Category:Unassessed articles
+Category:Wikipedia disambiguation
+Category:Draft articles
+Category:Commons category link is defined as the pagename
+Category:Wikipedia featured and good topics
+Category:WikiProject Countering systemic bias
+Category:Wikipedia featured lists
+Category:Wikipedia extended-confirmed-protected pages
+Category:Wikipedia administration
+Category:Wikipedia sockpuppetry
+Category:WikiProject Stub sorting
+Category:Wikipedia featured content
+Category:Wikipedia citation administration
+Category:Wikipedia categorization
+Category:Wikipedia blocking
+Category:Wikipedia article assessment
+Category:WikiProjects
+Category:Wikipedia user conduct
+Category:Wikipedia help
+Category:Wikipedia lists
+Category:Wikipedia multilingual coordination
+Category:Wikipedia WikiProjects
+Category:Wikipedia user accounts
