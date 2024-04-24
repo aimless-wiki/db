@@ -61,7 +61,9 @@ def main(
         name = name.lower()
 
         exclude_pattern = re.compile(
-            r"^[a-z]+-(?:class|importance)|^redirect|(?:stub|template)s?$|wikiproject|^wikipedia")
+            r"^[a-z]+-(?:class|importance)|^redirect|"
+            r"(?:stub|template|list)s?$|wikiproject|^wikipedia"
+        )
 
         return exclude_pattern.search(name) is not None
 
