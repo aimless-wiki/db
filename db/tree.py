@@ -241,8 +241,14 @@ class CategoryTree(nx.DiGraph):
             [self.nodes[n]["page_count"] for n in self.nodes], percentile
         )
 
-    def remove_by_condition(self, condition: Callable[[int, CategoryAttributes], bool]):
+    def remove_by_condition(
+        self, condition: Callable[[int, CategoryAttributes], bool], reconstruct: bool
+    ):
         to_remove = list(n for n in self.nodes if condition(n, self.nodes[n]))
+
+        if not reconstruct:
+            self.remove_nodes_from(to_remove)
+            return
 
         for n in to_remove:  # 427258
             self.remove_node_reconstruct(n)
